@@ -1,1 +1,2 @@
 .env
+SECRET_KEY = "django-insecure-_$u51p%!#un1$x#vmfpc_3z#)2^aq_yeu%+1@gvli8e*953x&7"
